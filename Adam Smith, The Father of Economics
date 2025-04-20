@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adam Smith - Philosopher and Economist</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Adam Smith Website</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#biography">Biography</a></li>
+            <li><a href="#works">Major Works</a></li>
+            <li><a href="#philosophy">Philosophy</a></li>
+            <li><a href="#legacy">Legacy</a></li>
+            <li><a href="#sources">Sources</a></li>
+            <li><a href="#video">Video</a></li>
+        </ul>
+    </nav>
+    <section id="biography">
+        <h2>Biography</h2>
+        <p>Adam Smith was born on June 16, 1723, in Kirkcaldy, Scotland. He was a prominent philosopher, economist, and key figure during the Scottish Enlightenment. Smith studied at the University of Glasgow and later at Balliol College, Oxford. His most famous works include "The Theory of Moral Sentiments" (1759) and "An Inquiry into the Nature and Causes of the Wealth of Nations" (1776), the latter laying the foundations for modern economics. Smith died on July 17, 1790, leaving a lasting impact on both philosophy and economic theory.</p>
+    </section>
+    <section id="works">
+        <h2>Major Works</h2>
+        <p>Adam Smith's major works include:</p>
+        <ul>
+            <li><strong>The Theory of Moral Sentiments (1759)</strong> – Smith explores how human emotions, morality, and sympathy form the basis of societal and economic interactions.</li>
+            <li><strong>The Wealth of Nations (1776)</strong> – This is Smith's seminal work, in which he laid out the principles of capitalism, free markets, and the division of labor that still influence modern economic thought.</li>
+        </ul>
+    </section>
+    <section id="philosophy">
+        <h2>Philosophy</h2>
+        <p>Adam Smith is widely known for his contributions to moral philosophy and economics. His philosophy emphasized the importance of individual freedom, self-interest, and the role of sympathy in human behavior. Smith's economic philosophy advocated for a free-market economy where individuals' pursuit of self-interest in competitive markets would unintentionally benefit society as a whole through what he described as the "invisible hand." Smith's work helped shape the foundation of modern economics and the capitalist system.</p>
+    </section>
+    <section id="legacy">
+        <h2>Legacy</h2>
+        <p>Adam Smith's ideas have had a profound and lasting influence on economics, political theory, and philosophy. His work laid the groundwork for the development of classical economics, influencing thinkers like David Ricardo and John Stuart Mill. His advocacy for free markets and limited government intervention remains a cornerstone of capitalist economic systems worldwide. Smith is often regarded as the "father of modern economics" and his ideas continue to be studied and debated in the fields of economics, political science, and philosophy.</p>
+    </section>
+    <section id="sources">
+        <h2>Sources</h2>
+        <p>For further reading and reference, here are some of the key sources:</p>
+        <ul>
+            <li><a href="https://www.britannica.com/biography/Adam-Smith">Britannica - Adam Smith</a></li>
+            <li><a href="https://plato.stanford.edu/entries/adam-smith/">Stanford Encyclopedia of Philosophy - Adam Smith</a></li>
+            <li><a href="https://www.econlib.org/library/Enc/bios/Smith.html">Liberty Fund - Adam Smith Biography</a></li>
+        </ul>
+    </section>
+    <section id="video">
+        <h2>Video on Adam Smith</h2>
+        <p>Watch this video about Adam Smith's life and work:</p>
+        <a href="https://www.youtube.com/watch?v=XXXXXXX" target="_blank">Watch the video here</a>
+        <!-- Replace XXXXXXX with your YouTube video ID -->
+    </section>
+    <footer>
+        <p>&copy; 2025 Adam Smith Website</p>
+    </footer>
+</body>
+</html>
